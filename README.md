@@ -1,2 +1,1 @@
-# Duplicate_Invoice_Automation
-This script automates the process of managing invoice PDFs, extracting text, identifying duplicates, and organizing the data into specific folders, with detailed logging and error handling. The pandas DataFrames at the end allow for an easy review of the unique and duplicate invoices processed during the run.
+This Python_script, with a fully implemented PyQt UI, automates the processing of invoice PDFs by extracting text, identifying duplicates, and organizing files into specific folders. The interface allows easy folder selection and process execution, while pandas DataFrames display unique and duplicate invoices for quick review and analysis.
